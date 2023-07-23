@@ -1,7 +1,3 @@
-streamlit>=1.22
-toml
-sqlalchemy==1.4
-duckdb
-s3fs
-gcsfs
-snowflake-snowpark-python[pandas]
+# requirements.txt
+mysqlclient==x.x.x
+SQLAlchemy==x.x.x
