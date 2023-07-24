@@ -1,3 +1,4 @@
 # requirements.txt
-mysqlclient==x.x.x
-SQLAlchemy==x.x.x
+mysqlclient
+SQLAlchemy
+streamlit
